@@ -1,0 +1,83 @@
+/* Transaction.css */
+
+.transaction-container {
+    padding: 30px;
+    max-width: 900px;
+    margin: 0 auto;
+    background-color: #f9fafb; /* Soft light background */
+    border-radius: 12px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  }
+  
+  .transaction-title {
+    text-align: center;
+    font-size: 2rem;
+    color: #1677FF; /* Blue color for title */
+    font-weight: 600;
+    margin-bottom: 20px;
+  }
+  
+  .transaction-card, .transaction-payment-card {
+    margin-bottom: 25px;
+    padding: 20px;
+    border-radius: 12px;
+    background-color: #fff;
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.1);
+    transition: all 0.3s ease-in-out;
+  }
+  
+  .transaction-card:hover, .transaction-payment-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.15);
+  }
+  
+  .transaction-total {
+    text-align: center;
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: #4CAF50; /* Green for total price */
+    margin-top: 20px;
+  }
+  
+  .quantity {
+    padding: 0 12px;
+    font-weight: bold;
+  }
+  
+  .checkout-button {
+    background-color: #4CAF50;
+    border-color: #4CAF50;
+    color: white;
+    font-weight: bold;
+    border-radius: 8px;
+    padding: -5px;
+    font-size: 16px;
+    transition: all 0.3s ease-in-out;
+    width: 100%;
+    display: block;
+    margin-top: 15px;
+  }
+  
+  .checkout-button:hover {
+    background-color: #45a049;
+    transform: translateY(-2px);
+  }
+  
+  .back-button {
+    margin-top: 20px;
+    width: 100%;
+    font-weight: bold;
+    border-radius: 8px;
+    padding: 12px 0;
+    background-color: #f4f4f4;
+    border-color: #ccc;
+    color: #1677FF; /* Matching color with title */
+    font-size: 16px;
+    transition: all 0.3s ease-in-out;
+  }
+  
+  .back-button:hover {
+    background-color: #e0e0e0;
+    transform: translateY(-2px);
+  }
+  

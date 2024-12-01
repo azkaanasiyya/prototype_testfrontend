@@ -1,0 +1,224 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "username": "admin",
+            "password": "admin"
+        },
+        {
+            "id": 2,
+            "username": "user1",
+            "password": "password1"
+        },
+        {
+            "id": "5ac2",
+            "username": "azka",
+            "password": "azka",
+            "email": "azka@gmail.com"
+        }
+    ],
+    "hotPromo": [
+        {
+            "id": 1,
+            "title": "Pulsa 50.000",
+            "thumbnail": "https://logos-download.com/wp-content/uploads/2022/12/DNet_Logo-450x126.png",
+            "price": 50000,
+            "discountPercentage": 10,
+            "rating": 4.5,
+            "description": "Pulsa Rp 50.000 dengan tambahan bonus 10%"
+        },
+        {
+            "id": 2,
+            "title": "Paket Data 10GB",
+            "thumbnail": "https://logos-download.com/wp-content/uploads/2022/12/DNet_Logo-450x126.png",
+            "price": 100000,
+            "discountPercentage": 15,
+            "rating": 4.3,
+            "description": "Paket data 10GB untuk penggunaan ringan"
+        },
+        {
+            "id": 3,
+            "title": "Paket Data 50GB",
+            "thumbnail": "https://logos-download.com/wp-content/uploads/2022/12/DNet_Logo-450x126.png",
+            "price": 200000,
+            "discountPercentage": 20,
+            "rating": 4.8,
+            "description": "Paket data 50GB untuk pengguna berat"
+        },
+        {
+            "id": 4,
+            "title": "Wi-Fi Unlimited 1",
+            "thumbnail": "https://logos-download.com/wp-content/uploads/2022/12/DNet_Logo-450x126.png",
+            "price": 300000,
+            "discountPercentage": 10,
+            "rating": 4.6,
+            "description": "Wi-Fi unlimited untuk penggunaan rumah"
+        },
+        {
+            "id": 5,
+            "title": "Wi-Fi Unlimited 2",
+            "thumbnail": "https://logos-download.com/wp-content/uploads/2022/12/DNet_Logo-450x126.png",
+            "price": 500000,
+            "discountPercentage": 15,
+            "rating": 4.7,
+            "description": "Wi-Fi cepat dan andal untuk kantor"
+        },
+        {
+            "id": 6,
+            "title": "Paket Data Unlimited",
+            "thumbnail": "https://logos-download.com/wp-content/uploads/2022/12/DNet_Logo-450x126.png",
+            "price": 500000,
+            "discountPercentage": 5,
+            "rating": 4.9,
+            "description": "Tidak ada batasan penggunaan data"
+        }
+    ],
+    "kuotaInternet": [
+        {
+            "id": 1,
+            "title": "Paket Data 10GB",
+            "thumbnail": "https://logos-download.com/wp-content/uploads/2022/12/DNet_Logo-450x126.png",
+            "price": 100000,
+            "discountPercentage": 10,
+            "rating": 4.3,
+            "description": "Paket data 10GB untuk penggunaan ringan"
+        },
+        {
+            "id": 2,
+            "title": "Paket Data 50GB",
+            "thumbnail": "https://logos-download.com/wp-content/uploads/2022/12/DNet_Logo-450x126.png",
+            "price": 200000,
+            "discountPercentage": 25,
+            "rating": 4.8,
+            "description": "Paket data 50GB untuk pengguna berat"
+        },
+        {
+            "id": 3,
+            "title": "Paket Data 100GB",
+            "thumbnail": "https://logos-download.com/wp-content/uploads/2022/12/DNet_Logo-450x126.png",
+            "price": 300000,
+            "discountPercentage": 20,
+            "rating": 4.6,
+            "description": "Nilai terbaik untuk pengguna internet berat"
+        },
+        {
+            "id": 4,
+            "title": "Paket Data 5GB",
+            "thumbnail": "https://logos-download.com/wp-content/uploads/2022/12/DNet_Logo-450x126.png",
+            "price": 50000,
+            "discountPercentage": 5,
+            "rating": 4.0,
+            "description": "Sempurna untuk browsing santai"
+        },
+        {
+            "id": 5,
+            "title": "Paket Data 20GB",
+            "thumbnail": "https://logos-download.com/wp-content/uploads/2022/12/DNet_Logo-450x126.png",
+            "price": 150000,
+            "discountPercentage": 15,
+            "rating": 4.4,
+            "description": "Ideal untuk pengguna moderat"
+        },
+        {
+            "id": 6,
+            "title": "Paket Data 200GB",
+            "thumbnail": "https://logos-download.com/wp-content/uploads/2022/12/DNet_Logo-450x126.png",
+            "price": 400000,
+            "discountPercentage": 30,
+            "rating": 4.7,
+            "description": "Untuk pengguna yang banyak mendownload"
+        },
+        {
+            "id": 7,
+            "title": "Paket Data 30GB",
+            "thumbnail": "https://logos-download.com/wp-content/uploads/2022/12/DNet_Logo-450x126.png",
+            "price": 250000,
+            "discountPercentage": 15,
+            "rating": 4.5,
+            "description": "Keseimbangan yang baik untuk pengguna biasa"
+        },
+        {
+            "id": 8,
+            "title": "Paket Data Unlimited",
+            "thumbnail": "https://logos-download.com/wp-content/uploads/2022/12/DNet_Logo-450x126.png",
+            "price": 500000,
+            "discountPercentage": 5,
+            "rating": 4.9,
+            "description": "Tidak ada batasan penggunaan data"
+        }
+    ],
+    "wifi": [
+        {
+            "id": 1,
+            "title": "Wi-Fi Unlimited 1",
+            "thumbnail": "https://logos-download.com/wp-content/uploads/2022/12/DNet_Logo-450x126.png",
+            "price": 300000,
+            "discountPercentage": 10,
+            "rating": 4.6,
+            "description": "Wi-Fi unlimited untuk penggunaan rumah"
+        },
+        {
+            "id": 2,
+            "title": "Wi-Fi Unlimited 2",
+            "thumbnail": "https://logos-download.com/wp-content/uploads/2022/12/DNet_Logo-450x126.png",
+            "price": 500000,
+            "discountPercentage": 15,
+            "rating": 4.7,
+            "description": "Wi-Fi cepat dan andal untuk kantor"
+        },
+        {
+            "id": 3,
+            "title": "Wi-Fi Unlimited 3",
+            "thumbnail": "https://logos-download.com/wp-content/uploads/2022/12/DNet_Logo-450x126.png",
+            "price": 400000,
+            "discountPercentage": 20,
+            "rating": 4.4,
+            "description": "Wi-Fi kecepatan tinggi untuk bisnis kecil"
+        },
+        {
+            "id": 4,
+            "title": "Paket Wi-Fi Rumah",
+            "thumbnail": "https://logos-download.com/wp-content/uploads/2022/12/DNet_Logo-450x126.png",
+            "price": 250000,
+            "discountPercentage": 5,
+            "rating": 4.2,
+            "description": "Solusi Wi-Fi terjangkau untuk rumah"
+        },
+        {
+            "id": 5,
+            "title": "Paket Wi-Fi Bisnis",
+            "thumbnail": "https://logos-download.com/wp-content/uploads/2022/12/DNet_Logo-450x126.png",
+            "price": 600000,
+            "discountPercentage": 15,
+            "rating": 4.8,
+            "description": "Wi-Fi andal untuk kebutuhan bisnis"
+        },
+        {
+            "id": 6,
+            "title": "Paket Wi-Fi Pelajar",
+            "thumbnail": "https://logos-download.com/wp-content/uploads/2022/12/DNet_Logo-450x126.png",
+            "price": 200000,
+            "discountPercentage": 10,
+            "rating": 4.1,
+            "description": "Tarif khusus untuk pelajar"
+        },
+        {
+            "id": 7,
+            "title": "Wi-Fi Portabel",
+            "thumbnail": "https://logos-download.com/wp-content/uploads/2022/12/DNet_Logo-450x126.png",
+            "price": 150000,
+            "discountPercentage": 10,
+            "rating": 4.3,
+            "description": "Wi-Fi di mana saja"
+        },
+        {
+            "id": 8,
+            "title": "Paket Wi-Fi Keluarga",
+            "thumbnail": "https://logos-download.com/wp-content/uploads/2022/12/DNet_Logo-450x126.png",
+            "price": 350000,
+            "discountPercentage": 12,
+            "rating": 4.5,
+            "description": "Sempurna untuk keluarga"
+        }
+    ]
+}

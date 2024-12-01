@@ -1,0 +1,92 @@
+/* Login.css */
+.login-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #eaf6ff; /* Latar belakang soft blue */
+    font-family: 'Poppins', sans-serif;
+  }
+  
+  .login-card {
+    width: 400px;
+    border-radius: 16px;
+    box-shadow: 0 12px 30px rgba(0, 0, 0, 0.15);
+    border: 1px solid #d1e3f8;
+    padding: 40px;
+    background-color: white;
+    transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
+  }
+  
+  .login-card:hover {
+    transform: translateY(-10px);
+    box-shadow: 0 15px 30px rgba(0, 0, 0, 0.2);
+  }
+  
+  .login-title {
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+    color: #1677ff;
+    font-size: 28px;
+    font-weight: 600;
+    margin-bottom: 20px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+  }
+  
+  .login-form {
+    max-width: 100%;
+    margin-top: 20px;
+  }
+  
+  .login-input {
+    font-family: 'Poppins', sans-serif;
+    border-radius: 8px;
+    border: 1px solid #d1e3f8;
+    padding: 12px;
+    margin-bottom: 20px;
+    width: 100%;
+    font-size: 16px;
+    transition: border-color 0.3s;
+  }
+  
+  .login-input:focus {
+    border-color: #1677ff;
+    outline: none;
+    box-shadow: 0 0 5px rgba(22, 119, 255, 0.3);
+  }
+  
+  .login-btn {
+    background-color: #1677ff;
+    border-color: #1677ff;
+    font-size: 16px;
+    font-family: 'Poppins', sans-serif;
+    border-radius: 8px;
+    color: white;
+    padding: 12px;
+    width: 100%;
+    transition: background-color 0.3s, transform 0.3s;
+  }
+  
+  .login-btn:hover {
+    background-color: #0e5d9f;
+    transform: scale(1.05);
+  }
+  
+  .toggle-form {
+    text-align: center;
+    margin-top: 20px;
+  }
+  
+  .toggle-btn {
+    font-family: 'Poppins', sans-serif;
+    color: #1677ff;
+    font-weight: 600;
+    cursor: pointer;
+    transition: color 0.3s;
+  }
+  
+  .toggle-btn:hover {
+    color: #0e5d9f;
+  }
+  
